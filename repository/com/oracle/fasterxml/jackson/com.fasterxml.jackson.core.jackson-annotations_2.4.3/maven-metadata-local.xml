@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.oracle.fasterxml.jackson</groupId>
+  <artifactId>com.fasterxml.jackson.core.jackson-annotations_2.4.3</artifactId>
+  <versioning>
+    <release>2.4.3-0-0</release>
+    <versions>
+      <version>2.4.3-0-0</version>
+    </versions>
+    <lastUpdated>20170928143110</lastUpdated>
+  </versioning>
+</metadata>

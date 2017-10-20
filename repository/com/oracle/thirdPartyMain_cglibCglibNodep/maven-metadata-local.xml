@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.oracle</groupId>
+  <artifactId>thirdPartyMain_cglibCglibNodep</artifactId>
+  <versioning>
+    <release>3.2.5-0-0</release>
+    <versions>
+      <version>3.2.5-0-0</version>
+    </versions>
+    <lastUpdated>20170928143151</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 20 07:45:08 COT 2017
+https\://maven.oracle.com/.error=Could not transfer artifact com.oracle.weblogic\:weblogic-maven-plugin\:pom\:10.3.4 from/to maven.oracle.com (https\://maven.oracle.com)\: Not authorized , ReasonPhrase\:Authorization Required.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1505911508421
+https\://repo.maven.apache.org/maven2/.lastUpdated=1505860051752
+https\://repo.maven.apache.org/maven2/.error=

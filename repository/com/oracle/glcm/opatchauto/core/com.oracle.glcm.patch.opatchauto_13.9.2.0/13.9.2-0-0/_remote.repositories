@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 28 09:31:03 COT 2017
+com.oracle.glcm.patch.opatchauto_13.9.2.0-13.9.2-0-0.jar>=
+com.oracle.glcm.patch.opatchauto_13.9.2.0-13.9.2-0-0.pom>=

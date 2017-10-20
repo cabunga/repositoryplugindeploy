@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 28 09:31:16 COT 2017
+com.sun.xml.bind.jaxb-jxc-2.3.0-0-0.jar>=
+com.sun.xml.bind.jaxb-jxc-2.3.0-0-0.pom>=

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.oracle.cglib.cglib.nodep</groupId>
+  <artifactId>cglib-nodep-3.2.5</artifactId>
+  <versioning>
+    <release>3.2.5-0-0</release>
+    <versions>
+      <version>3.2.5-0-0</version>
+    </versions>
+    <lastUpdated>20170928143104</lastUpdated>
+  </versioning>
+</metadata>

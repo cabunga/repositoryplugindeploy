@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 28 09:31:10 COT 2017
+com.fasterxml.jackson.core.jackson-core_2.4.3-2.4.3-0-0.jar>=
+com.fasterxml.jackson.core.jackson-core_2.4.3-2.4.3-0-0.pom>=
